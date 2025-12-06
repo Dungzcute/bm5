@@ -1,7 +1,3 @@
--- BRM5 v4 Wall + AIM PVP GUI by dexter 
--- Credits to ryknuq and their overvoltage script, which helped me understand how to integrate the aimbot into my script. Without their script, I don't think I could have done this.
-
--- Obtaining essential Roblox services
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
